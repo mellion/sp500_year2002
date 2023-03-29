@@ -1,0 +1,2 @@
+--Makes 3 categories for stock price change:positive,negative, and neutral
+Change_Category = IF('stock_data'[daily_change] > 0, "Positive", IF('stock_data'[daily_change] < 0, "Negative", "Neutral"))
