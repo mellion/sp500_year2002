@@ -1,4 +1,4 @@
-# SPY Stock Market Analysis for 2002
+# SPY Stock Market Analysis for the year 2002
 
 This project analyzes the S&P 500 ETF Trust (SPY) stock market data for the year 2002 using PostgreSQL, Python, and Power BI. The data was downloaded from Yahoo! Finance in CSV format, and consists of 252 rows, with the following columns: date, open, high, low, close, adj_close, and volume. The goal of this project is to make sense of the 2002 SPY data, visualize insights gained from the analysis, and gain practice in PostgreSQL, Python, and Power BI.
 
