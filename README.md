@@ -23,6 +23,15 @@ Using Power BI, several visuals were created to better understand the data:
 - Daily Price Change Distribution in 2002 pie chart: Legend = change_category, Values = count of date
 - Daily Price Change vs Daily Volume scatter plot: X-axis = daily_pct_change, Y-axis = sum of volume
 
+
+![SPY500 ETF Dashboard](https://github.com/mellion/sp500_year2002/blob/main/spy500etf_dashboard.png?raw=true)
+
+<br>
+
+![SPY500 ETF Dashboard](https://github.com/mellion/sp500_year2002/blob/main/spy500etf_dashboard_two.png?raw=true)
+
+<br>
+
 ## Conclusions
 
 With a Pearson correlation coefficient of around 0.072, the daily volume vs daily price change has a low correlation. The main conclusion is that 2002 was not a good year for the stock market, with the S&P 500 ETF losing -23.63% during the year. The highest closing price was $117.62, and the lowest was $78.10. The biggest daily gain was 5.97%, and the biggest daily loss was -3.81%. The highest volume occurred in July and October, which coincided with some of the lowest price points of the year, indicating a significant amount of selling at low prices during these months.
