@@ -23,6 +23,8 @@ Using Power BI, several visuals were created to better understand the data:
 - Daily Price Change Distribution in 2002 pie chart: Legend = change_category, Values = count of date
 - Daily Price Change vs Daily Volume scatter plot: X-axis = daily_pct_change, Y-axis = sum of volume
 
+<br>
+
 
 ![SPY500 ETF Dashboard](https://github.com/mellion/sp500_year2002/blob/main/spy500etf_dashboard.png?raw=true)
 
